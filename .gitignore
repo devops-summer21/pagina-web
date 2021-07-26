@@ -4,3 +4,7 @@
 node_modules
 dist
 .cache
+.dockerignore
+Dockerfile
+docker-compose.*
+.git*
